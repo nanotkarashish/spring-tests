@@ -1,8 +1,10 @@
-# Test With Spring Course
 
-If you are struggling to write good automated tests for Spring web applications, you are not alone! [I have launched a video course](https://www.testwithspring.com/?utm_source=github&utm_medium=social&utm_content=spring-mvc-test&utm_campaign=test-with-spring-course-presales) that describes how you can write automated tests which embrace change and help you to save your time (and nerves).
+Before you can run these examples, You need to install the following tools:
 
-# Spring MVC Test Tutorial
+* [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Maven](http://maven.apache.org/) (the applications are tested with Maven 3.5.4) OR [Gradle](http://gradle.org/) (the applications 
+are tested with Gradle 4.8.1)
 
-This repository contains the example applications of my [Spring MVC Test tutorial](http://www.petrikainulainen.net/spring-mvc-test-tutorial/).
+## Running the examples
 
+If you want to run an example application, you should read the README of the example application. It contains the instructions that help you to get started.
